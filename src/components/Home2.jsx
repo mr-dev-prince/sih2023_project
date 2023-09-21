@@ -3,7 +3,7 @@ import fertilizer from "../assets/fertilizers.png";
 
 const Home2 = () => {
   return (
-    <div className="h-[100vh] bg-[#60712f]">
+    <div className="h-[100vh] bg-[#4db871]">
       <div className=" h-full w-full flex justify-around items-center">
         <div className="w-[35%] flex flex-col gap-8">
           <h1 className="text-2xl uppercase font-bold text-white">

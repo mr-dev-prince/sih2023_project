@@ -3,7 +3,7 @@ import i1 from '../assets/logo1.png'
 
 const Login = () => {
   return (
-    <div className=" h-screen w-screen flex flex-col justify-center items-center p-24 bg-[#60712f]">
+    <div className=" h-screen w-full flex flex-col justify-center items-center p-24 bg-[#3d7750]">
     <img src={i1} alt="" className="h-48"/>
       <form
         action=""

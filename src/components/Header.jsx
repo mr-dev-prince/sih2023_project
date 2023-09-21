@@ -16,7 +16,7 @@ const Header = () => {
         <HashLink to="/services" component={<Home/>}>Services</HashLink>
         <HashLink to="/about" component={<Home/>}>About</HashLink>
       </div>
-      <HashLink to="/login" component={<Login/>}><button className=" h-8 w-20 bg-white rounded-md uppercase hover:scale-125 duration-200">Login</button></HashLink>
+      <HashLink to="/login" component={<Login/>}><button className=" h-8 w-20 bg-white rounded-md uppercase hover:scale-105 duration-200">Login</button></HashLink>
     </div>
   );
 };

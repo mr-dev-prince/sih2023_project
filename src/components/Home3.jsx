@@ -3,7 +3,7 @@ import crop from "../assets/crop.png";
 
 const Home3 = () => {
   return (
-    <div className="h-[100vh] bg-[#60712f]">
+    <div className="h-[100vh] bg-[#4aa869]">
       <div className=" h-full w-full flex justify-around items-center">
         <div>
           <img src={crop} alt="" className=" h-[80%]"/>
